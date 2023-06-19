@@ -1,6 +1,7 @@
-# Library_Management_System
+# name of the system
 ---
 ## Description
+<p> name is a Library Management System ... </p>
 ---
 ## Functionalities of the Library Management System
 
