@@ -41,6 +41,8 @@ This function is used for finding out how much damage is done to the book <br>
 ---
 
 ## Sample Outputs
+![image](https://github.com/Ananya22112308/Library_System/assets/118894662/a512ce19-d11d-4047-a242-a3ed4508d30d)
+
 > Customer Management: <br>
 
 `main()` is used for initialising the front-end.
