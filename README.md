@@ -1,8 +1,8 @@
-# name of the system
+# LibSys
 ---
 ## Description
 
-<p> name is a Library Management System ... </p>
+<p> **LibSys** is a Library Management System </p>
 
 ---
 ## Functionalities of the Library Management System
@@ -41,4 +41,4 @@ This function is used for finding out how much damage is done to the book <br>
 ---
 
 ## Sample Outputs
----
+
