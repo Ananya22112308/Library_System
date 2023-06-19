@@ -35,18 +35,6 @@ This function is used for finding out how much damage is done to the book <br>
 ---
 ## How to Run the Project
 ---
-## Prerequisites
-Importing Libraries
-```
-import csv
-import pandas as pd
-import requests
-import os
-import random
-import time
-from datetime import date, timedelta
-from tabulate import tabulate
-```
----
+
 ## Sample Outputs
 ---
