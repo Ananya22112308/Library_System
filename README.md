@@ -19,6 +19,7 @@ This function is used for displaying users' database  <br>
 This function is used for logging out of the system  <br>
 ---
 >Library System: <br>
+
 `def display_books(self):`
 This function is used for displaying the books' database <br>
 `def borrow_book(self):`
