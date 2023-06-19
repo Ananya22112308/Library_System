@@ -1,11 +1,11 @@
-# Library_System
+# Library_Management_System
 
 `Description`
 
-##Functionalities of the Library Management System
+`Functionalities of the Library Management System`
 
-How to Run the Project
+`How to Run the Project`
 
-##Prerequisitues
+`Prerequisites`
 
-###Sample Outputs
+`Sample Outputs`
