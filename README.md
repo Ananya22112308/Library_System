@@ -2,7 +2,7 @@
 ---
 ## Description
 
-<p> *LibSys* is a Library Management System </p>
+<p> _LibSys_ is a Library Management System </p>
 
 ---
 ## Functionalities of the Library Management System
