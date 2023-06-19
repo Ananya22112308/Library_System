@@ -42,4 +42,5 @@ This function is used for finding out how much damage is done to the book <br>
 
 ## Sample Outputs
 > Customer Management: <br>
+
 `main()` is used for initialising the front-end.
