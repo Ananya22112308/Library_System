@@ -17,7 +17,7 @@ This function is used for updating the details of the user  <br>
 This function is used for displaying users' database  <br>
 `def logout_customer(self):`
 This function is used for logging out of the system  <br>
-
+---
 >Library System: <br>
 `def display_books(self):`
 This function is used for displaying the books' database <br>
