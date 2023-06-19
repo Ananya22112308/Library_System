@@ -74,6 +74,7 @@ Registering to the system
 ![image](https://github.com/Ananya22112308/Library_System/assets/118894662/d4512465-7323-4b4f-9e7b-9287cd91689b)
 ![image](https://github.com/Ananya22112308/Library_System/assets/118894662/0313f215-4af5-4116-a9fb-f03d846cb369)
 
+---
 > Library System: <br>
 
 Borrowing a book
