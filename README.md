@@ -82,6 +82,8 @@ Getting an extension on the due date for a book
 ![image](https://github.com/Ananya22112308/Library_System/assets/118894662/d850e909-d22b-4679-9fc0-eda5e1488513)
 Returning a book
 ![image](https://github.com/Ananya22112308/Library_System/assets/118894662/5332d223-6d83-48f9-baa2-0afee72aa36e)
+Returning a damaged book
+![image](https://github.com/Ananya22112308/Library_System/assets/118894662/331d1917-56d7-4696-a17e-91d48ff1895e)
 
 
 
