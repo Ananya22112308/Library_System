@@ -1,8 +1,8 @@
-# LibSys
+# LibSys - Library Management System
 ---
 ## Description
 
-_LibSys_ is a Library Management System 
+_LibSys_ is a Library Management System designed to efficiently manage customer information and library operations. It provides a range of functions to facilitate customer management and library operations seamlessly.
 
 ---
 ## Functionalities of the Library Management System
