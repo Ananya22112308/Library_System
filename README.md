@@ -73,6 +73,10 @@ This function is used for finding out how much damage is done to the book <br>
 ![image](https://github.com/Ananya22112308/Library_System/assets/118894662/d4512465-7323-4b4f-9e7b-9287cd91689b)
 ![image](https://github.com/Ananya22112308/Library_System/assets/118894662/0313f215-4af5-4116-a9fb-f03d846cb369)
 
+> Library System: <br>
+
+![image](https://github.com/Ananya22112308/Library_System/assets/118894662/60cca3d5-bfa3-4736-8c9b-88f9e50475be)
+
 
 
 
