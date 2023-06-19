@@ -3,7 +3,9 @@
 ## Description
 ---
 ## Functionalities of the Library Management System
-> Customer Management: <br>
+
+>Customer Management: <br>
+
 `def register_customer(self):` 
 This function is used for getting a user registered into the system <br>
 `def login_customer(self):` 
