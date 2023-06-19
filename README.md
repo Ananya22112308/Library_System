@@ -77,6 +77,7 @@ This function is used for finding out how much damage is done to the book <br>
 
 ![image](https://github.com/Ananya22112308/Library_System/assets/118894662/60cca3d5-bfa3-4736-8c9b-88f9e50475be)
 ![image](https://github.com/Ananya22112308/Library_System/assets/118894662/4034e834-67c6-48d8-99b4-f9069dd746b2)
+![image](https://github.com/Ananya22112308/Library_System/assets/118894662/d850e909-d22b-4679-9fc0-eda5e1488513)
 
 
 
