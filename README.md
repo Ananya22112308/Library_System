@@ -69,8 +69,9 @@ This function is used for finding out how much damage is done to the book <br>
 > Customer Management: <br>
 
 `main()` is used for initialising the front-end.
-![image](https://github.com/Ananya22112308/Library_System/assets/118894662/8b5ddeb1-1026-4d3f-a827-bbded757f0d0)
-![image](https://github.com/Ananya22112308/Library_System/assets/118894662/bb1674b7-2afb-4837-a24a-efdeae2c0fff)
+![image](https://github.com/Ananya22112308/Library_System/assets/118894662/e8a87767-238c-466b-b092-b86da41be028)
+![image](https://github.com/Ananya22112308/Library_System/assets/118894662/d4512465-7323-4b4f-9e7b-9287cd91689b)
+
 
 
 
