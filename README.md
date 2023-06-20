@@ -65,18 +65,36 @@ This function is used for finding out how much damage is done to the book <br>
 
 The program contains 2 classes:
 
-- class Customer Management
-- class Library Management
+- Class Customer Management
+- Class Library Management
 
-### Class CustomerManagement
----
+`main()` function that serves as the entry point for the library management system.
 
+- The function starts by printing a welcome message to the console.
 
+- Instances of the CustomerManagement and LibrarySystem classes are created, passing the respective database parameters (customer_database and book_database) to their constructors. These instances are used to interact with the customer management and library management functionalities.
 
-### Class LibraryManagement
----
+- The function enters a while loop that displays the main menu options and waits for user input.
 
+- The main menu options are displayed, including options for customer management, library management, and exiting the system.
 
+- The user is prompted to enter their choice.
+
+- If the user selects "1" for customer management, a sub-menu for customer management options is displayed.
+
+- The user is prompted to enter their choice for the customer management sub-menu.
+
+- Based on the user's choice, the corresponding methods from the CustomerManagement class are called to perform the desired action, such as registering a customer, logging in, updating customer details, displaying customers, or logging out.
+
+- If the user selects "2" for library management, a sub-menu for library management options is displayed.
+
+- The user is prompted to enter their choice for the library management sub-menu.
+
+- Based on the user's choice, the corresponding methods from the LibrarySystem class are called to perform the desired action, such as displaying books, borrowing a book, returning a book, assessing fines for damages, or exiting the library management section.
+
+- If the user selects "3" in the main menu, a message is printed indicating the system is exiting, and the while loop is broken, ending the program.
+
+- If the user enters an invalid choice in either the main menu or sub-menus, an appropriate error message is displayed, and the user is prompted to try again.
 
 
 ## SAMPLE OUTPUTS
