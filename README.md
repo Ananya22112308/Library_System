@@ -62,6 +62,12 @@ This function is used for finding out how much damage is done to the book <br>
 
 ---
 ## CODE EXPLANATION
+
+The program contains 2 classes:
+
+- class Customer Management
+- class Library Management
+
 ---
 
 ## SAMPLE OUTPUTS
