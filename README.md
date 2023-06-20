@@ -7,7 +7,7 @@ _LibSys_ is a comprehensive and user-friendly library management system designed
 ---
 ## FUNCTIONALITIES OF THE LIBRARY MANAGEMENT SYSTEM
 
->Customer Management: <br>
+>Class Customer Management: <br>
 
 `def register_customer(self):` 
 
@@ -30,7 +30,7 @@ This function is used for displaying users' database  <br>
 This function is used for logging out of the system  <br>
 
 ---
->Library System: <br>
+>Class Library System: <br>
 
 `def display_books(self):`
 
