@@ -8,17 +8,8 @@ Original file is located at
 
 # ***Python Project***
 Ananya Geetey 22112308
-
->
-
-
 Siddhi Jhanwar 22112334
 
-title
-description
-list of functionalities
-how to run the project
-sample outputs [screenshots]
 """
 
 # --- Importing all the necessary libraries ---
