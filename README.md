@@ -1,11 +1,11 @@
 # LibSys - Library Management System
 ---
-## Description
+## DESCRIPTION
 
 _LibSys_ is a comprehensive and user-friendly library management system designed to efficiently manage customer information and library operations. It provides a range of functions to facilitate customer management and library operations seamlessly.
 
 ---
-## Functionalities of the Library Management System
+## FUNCTIONALITIES OF THE LIBRARY MANAGEMENT SYSTEM
 
 >Customer Management: <br>
 
@@ -61,10 +61,10 @@ This function is used for paying for damages done to the book <br>
 This function is used for finding out how much damage is done to the book <br>
 
 ---
-## How to Run the Project
+## CODE EXPLANATION
 ---
 
-## Sample Outputs
+## SAMPLE OUTPUTS
 
 > Customer Management: <br>
 
