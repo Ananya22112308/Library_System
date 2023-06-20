@@ -133,6 +133,6 @@ error handling and exit
 ![image](https://github.com/Ananya22112308/Library_System/assets/118894662/9740877b-cd7f-43ed-a9da-d16426b2ca0b)
 
 ---
-###Collaborators: <br>
-Ananya Geetey (22112308) : https://github.com/Ananya22112308
+### Collaborators: <br>
+Ananya Geetey (22112308) : https://github.com/Ananya22112308 <br>
 Siddhi Jhanwar (22112334) : https://github.com/Siddhi22112334
