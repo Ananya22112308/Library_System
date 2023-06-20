@@ -74,7 +74,7 @@ The program contains 2 classes:
 
 - Instances of the CustomerManagement and LibrarySystem classes are created, passing the respective database parameters (customer_database and book_database) to their constructors. These instances are used to interact with the customer management and library management functionalities.
 
-- The function enters a while loop that displays the main menu options and waits for user input.
+- The function enters a while loop that displays the main menu options and asks for user input.
 
 - The main menu options are displayed, including options for customer management, library management, and exiting the system.
 
@@ -103,6 +103,7 @@ The program contains 2 classes:
 
 `main()` is used for initialising the front-end. <br>
 Registering to the system
+
 ![image](https://github.com/Ananya22112308/Library_System/assets/118894662/e8a87767-238c-466b-b092-b86da41be028)
 ![image](https://github.com/Ananya22112308/Library_System/assets/118894662/d4512465-7323-4b4f-9e7b-9287cd91689b)
 ![image](https://github.com/Ananya22112308/Library_System/assets/118894662/0313f215-4af5-4116-a9fb-f03d846cb369)
@@ -111,15 +112,24 @@ Registering to the system
 > Library System: <br>
 
 Borrowing a book
+
 ![image](https://github.com/Ananya22112308/Library_System/assets/118894662/60cca3d5-bfa3-4736-8c9b-88f9e50475be)
 ![image](https://github.com/Ananya22112308/Library_System/assets/118894662/4034e834-67c6-48d8-99b4-f9069dd746b2)
+
 Getting an extension on the due date for a book
+
 ![image](https://github.com/Ananya22112308/Library_System/assets/118894662/d850e909-d22b-4679-9fc0-eda5e1488513)
+
 Returning a book
+
 ![image](https://github.com/Ananya22112308/Library_System/assets/118894662/5332d223-6d83-48f9-baa2-0afee72aa36e)
+
 Returning a damaged book
+
 ![image](https://github.com/Ananya22112308/Library_System/assets/118894662/331d1917-56d7-4696-a17e-91d48ff1895e)
+
 error handling and exit
+
 ![image](https://github.com/Ananya22112308/Library_System/assets/118894662/9740877b-cd7f-43ed-a9da-d16426b2ca0b)
 
 
