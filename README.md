@@ -134,11 +134,5 @@ error handling and exit
 
 ---
 ###Collaborators: <br>
-Ananya Geetey (22112308)
-
-
-
-
-
-
-
+Ananya Geetey (22112308) : https://github.com/Ananya22112308
+Siddhi Jhanwar (22112334) : https://github.com/Siddhi22112334
